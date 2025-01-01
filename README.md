@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vahora Mohammad Sauban and I'm a Student and Developer , from India </h2>
+<h2 align="left">Hi 👋! My name is Vahora Mohammad Sauban and I'm a Student and Developer , from India. </h2>
 
 ###
 - 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
