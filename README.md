@@ -3,7 +3,7 @@
 ###
 - 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing](https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/Ap9iO](https://shorturl.at/Ap9iO)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VAHORASAUBAN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
