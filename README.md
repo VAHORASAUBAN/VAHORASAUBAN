@@ -1,7 +1,15 @@
 <h2 align="left">Hi 👋! My name is Vahora Mohammad Sauban and I'm a Student and Developer , from India </h2>
 
 ###
+- 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
 
+- 📫 How to reach me **sauban.imscit21@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing](https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing)- 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
+
+- 📫 How to reach me **sauban.imscit21@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing](https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VAHORASAUBAN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAHORASAUBAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
