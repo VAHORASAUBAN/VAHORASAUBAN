@@ -3,8 +3,6 @@
 ###
 - 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
 
-- 📫 How to reach me **sauban.imscit21@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing](https://drive.google.com/file/d/1-xfgL-KQ0N8Pg_ryIrMYQQ3lvTJYBCrt/view?usp=sharing)
 
 <div align="center">
