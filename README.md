@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vahorasauban" alt="vahorasauban" /></a> </p>
 
-- 💬 Ask me about **Figma,UI/UX,Android,Django**
+- 💬 Ask me about **UI/UX,Android,Django**
 
 - 📫 How to reach me **sauban.imscit21@gmail.com**
 
