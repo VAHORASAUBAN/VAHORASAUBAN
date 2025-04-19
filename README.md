@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Vahora Mohammad Sauban and I'm a Student and Developer , from India. </h2>
 
 ###
-- 💬 Ask me about **UI/UX,AppDev (Android java,flutter) ,WebApp (Django)**
+- 💬 Ask me about **UI/UX,AppDev (Android,flutter) ,WebApp (Django)**
 
 - 📄 Know about my experiences [https://shorturl.at/Ap9iO](https://shorturl.at/Ap9iO)
 
