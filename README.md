@@ -12,15 +12,32 @@
 ### 💻 Tech Toolbox
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress" />
+  <!-- 🌐 Web Basics -->
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript" />
+
+  <!-- 💻 Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+
+  <!-- ⚙️ Frameworks / Tools -->
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+
+  <!-- 🗄️ Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" />
+
+  <!-- ☁️ Cloud & Intelligence -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
+  <img src="https://img.shields.io/badge/AI/ML-%230089FA?style=flat-square&logo=google&logoColor=white" height="30" alt="AI/ML" />
 </div>
+
 
 ---
 
@@ -50,14 +67,11 @@
 ### 📬 Let's Connect
 
 <div align="center">
-  <a href="mailto:sauban.imscit21@gmail.com" target="_blank">
+  <a href="mailto:saubanvahora@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-sauban-vahora-681b30241/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://t.me/vs1724" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
