@@ -1,14 +1,15 @@
-<h2 align="left">Hey 👋 I'm Vahora Mohammad Sauban — Developer & CS Grad from India 🇮🇳</h2>
+<h2 align="left">Hey 👋 I'm Vahora Mohammad Sauban — Developer from India</h2>
 
 <p align="left">
-🚀 I'm a passionate <strong>App & Web Developer</strong> who loves building sleek UIs and smart backends.<br>
-🎓 Currently pursuing my Master's in Computer Science and Information Technology.<br>
-💡 Always exploring new tech and looking for ways to push creativity and functionality together.
+🚀 Passionate <strong>Full-Stack Developer</strong> blending clean UI design with smart backend logic.<br>
+🎓 Pursuing my Master's in Computer Science & Information Technology.<br>
+🎯 Focused on building products that are not just functional — but delightful.<br>
+💡 Lifelong learner. Tech explorer. Creativity nerd.
 </p>
 
 ---
 
-### 💻 Tech Stack I Love Working With
+### 💻 Tech Toolbox
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
@@ -23,19 +24,22 @@
 
 ---
 
-### 💬 Ask Me About
-- **UI/UX Design** (Figma, Mobile-first)
-- **App Dev** (Android Native & Flutter)
-- **Web Apps** (Django, APIs, MongoDB/MySQL)
+### 🧠 What I Bring to the Table
+
+- 🎨 **UI/UX Pro** — Figma, wireframes, mobile-first designs that actually *look good*
+- 📱 **App Dev Geek** — Android native + Flutter builds that feel buttery smooth
+- 🌐 **Backend Brain** — REST APIs, databases, auth flows, and deployment pipelines
+- 🧩 **Problem Solver** — Comfortable with complex logic and system design
 
 ---
 
-### 📄 Wanna Know More About My Journey?
-Check out my experience 👉 [**Click here**](https://shorturl.at/Ap9iO)
+### 📄 Wanna See My Journey?
+
+**[Click here to peek into my world](https://shorturl.at/Ap9iO)** — from projects to hands-on hustle.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats That Speak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAHORASAUBAN&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" alt="Top Langs" />
@@ -43,7 +47,7 @@ Check out my experience 👉 [**Click here**](https://shorturl.at/Ap9iO)
 
 ---
 
-### 📫 Connect With Me
+### 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:sauban.imscit21@gmail.com" target="_blank">
@@ -65,7 +69,6 @@ Check out my experience 👉 [**Click here**](https://shorturl.at/Ap9iO)
 
 ### ⚡ Fun Fact
 
-> I don’t just ship code — I design experiences. Let’s build something that stands out.
+> I don’t just ship code — I **design experiences**. Let’s build tech that actually matters.
 
 ---
-
