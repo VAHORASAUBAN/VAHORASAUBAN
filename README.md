@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  💻 Passionate Full-Stack Developer | 🎓 CS Grad Student | 🌐 Tech Enthusiast <br>
+  💻 Passionate Full-Stack Developer | 🎓 IT Grad Student | 🌐 Tech Enthusiast <br>
   Currently diving deep into real-world product development, AI/ML, and scalable systems.
 </p>
 
@@ -51,18 +51,6 @@
 
 ---
 
-### 🔥 My Highlight Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 AI Mental Health Bot | Flask + Gemini + NLP | Conversational AI built to assist users with mental wellness |
-| 📚 Q&A Web Platform | Django + MongoDB | Full-stack Q&A site with roles, tag suggestions, and moderation |
-| 📲 Expense Tracker | Flutter | Personal expense tracker with analytics and charts |
-| 🌐 Portfolio Website | WordPress | SEO-optimized responsive personal portfolio |
-
-🔗 [**See More**](https://shorturl.at/Ap9iO)
-
----
 
 ### 📈 GitHub Stats
 
