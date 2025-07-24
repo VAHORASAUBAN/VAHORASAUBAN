@@ -1,77 +1,88 @@
-<h2 align="left">Hey 👋 I'm Vahora Mohammad Sauban — Developer from India</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D0FF&width=435&lines=Hey+👋+I'm+Vahora+Mohammad+Sauban;App+%26+Web+Developer+from+India;AI%2FML+%7C+Cloud+%7C+Full-Stack+Geek;Always+Learning+%26+Building..." alt="Typing SVG" />
+</h1>
 
-<p align="left">
-🚀 Passionate <strong>Full-Stack Developer</strong> blending clean UI design with smart backend logic.<br>
-🎓 Pursuing my Master's in Computer Science & Information Technology.<br>
-🎯 Focused on building products that are not just functional — but delightful.<br>
-💡 Lifelong learner. Tech explorer. Creativity nerd.
+---
+
+<p align="center">
+  💻 Passionate Full-Stack Developer | 🎓 CS Grad Student | 🌐 Tech Enthusiast <br>
+  Currently diving deep into real-world product development, AI/ML, and scalable systems.
 </p>
 
 ---
 
-### 💻 Tech Toolbox
+### ⚙️ Tech Stack I Work With
 
 <div align="center">
   <!-- 🌐 Web Basics -->
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" />
 
-  <!-- 💻 Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+  <!-- 💻 Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
 
-  <!-- ⚙️ Frameworks / Tools -->
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <!-- 🔧 Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=django" height="30" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 
   <!-- 🗄️ Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
 
   <!-- ☁️ Cloud & Intelligence -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
-  <img src="https://img.shields.io/badge/AI/ML-%230089FA?style=flat-square&logo=google&logoColor=white" height="30" alt="AI/ML" />
-</div>
-
-
----
-
-### 🧠 What I Bring to the Table
-
-- 🎨 **UI/UX Pro** — Figma, wireframes, mobile-first designs that actually *look good*
-- 📱 **App Dev Geek** — Android native + Flutter builds that feel buttery smooth
-- 🌐 **Backend Brain** — REST APIs, databases, auth flows, and deployment pipelines
-- 🧩 **Problem Solver** — Comfortable with complex logic and system design
-
----
-
-### 📄 Wanna See My Journey?
-
-**[Click here to peek into my world](https://shorturl.at/Ap9iO)** — from projects to hands-on hustle.
-
----
-
-### 📊 GitHub Stats That Speak
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAHORASAUBAN&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" alt="Top Langs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/AI/ML-%230089FA?style=flat-square&logo=google&logoColor=white" height="30" />
 </div>
 
 ---
 
-### 📬 Let's Connect
+### 🧠 About Me
+
+- 🎓 Pursuing Master’s in CS & IT  
+- 🧑‍💻 Focused on Full-Stack Projects + AI/ML + Scalable Apps  
+- 🤝 Open for internships, freelance gigs, or collabs  
+- 🛠️ Always building, breaking, and learning 🔁
+
+---
+
+### 🔥 My Highlight Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧠 AI Mental Health Bot | Flask + Gemini + NLP | Conversational AI built to assist users with mental wellness |
+| 📚 Q&A Web Platform | Django + MongoDB | Full-stack Q&A site with roles, tag suggestions, and moderation |
+| 📲 Expense Tracker | Flutter | Personal expense tracker with analytics and charts |
+| 🌐 Portfolio Website | WordPress | SEO-optimized responsive personal portfolio |
+
+🔗 [**See More**](https://shorturl.at/Ap9iO)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <a href="mailto:saubanvahora@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAHORASAUBAN&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+### 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:sauban.imscit21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-sauban-vahora-681b30241/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://t.me/vs1724" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -81,8 +92,8 @@
 
 ---
 
-### ⚡ Fun Fact
 
-> I don’t just ship code — I **design experiences**. Let’s build tech that actually matters.
+
+### > ⚡ Let’s build something people *actually* use.
 
 ---
